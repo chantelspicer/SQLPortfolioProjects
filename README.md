@@ -4,11 +4,15 @@
 
 **Link to project:** https://github.com/chantelspicer/SQLPortfolioProjects
 
+![COVID19_Tableau_Project](https://user-images.githubusercontent.com/94324220/214210515-0910f7e0-62c5-4464-a549-d5fa5b734fed.png)
+
 ## How It's Made:
 
-**Tech used:** SQL, SSMS, Excel, and GitHub
+**Tech used:** SQL, SSMS, Tableau, Excel, and GitHub
 
 The COVID-19 Data Exploration project was my first large-scale project in the world of data analytics. I chose a COVID-19 dataset as I am a Registered Nurse working in Public Health with an interest in utilizing data to explore and improve health. I began by reviewing open-source worldwide COVID-19 datasets that would allow me to delve deeper into the effects of COVID-19 since the beginning, around January 2020. Once the datasets were downloaded, I separated the information into two spreadsheets, based on deaths and vaccinations and imported the datasets into Microsoft SQL Server Management Studio. Once completed, the fun began by exploring data through the implementation of various Data Definition Language (DDL) and Data Manipulation Language (DML) SQL queries into reportable information.
+
+My last task was to choose several queries that would represent the COVID-19 dataset well and create a Tableau dashboard. For this, I used queries that related to global numbers, continents, countries, and the infection rate for specific countries. By manipulating the data, it became easier to visualize the impact COVID-19 has globally and my quest to use data to support population health.
 
 ## Optimizations:
 
