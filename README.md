@@ -1,6 +1,6 @@
 # SQLPortfolioProjects
 
-# Project: COVID-19 Data Exploration
+# Project: COVID-19 Data Analysis
 
 **Link to project:** https://github.com/chantelspicer/SQLPortfolioProjects
 
